@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/72955349/174216427-8408e1f7-8055-4be3-a7a3-1846139612ee.png" height="175px"/></a>
+<a href="#"><img width="80%" height="50%" src="https://user-images.githubusercontent.com/72955349/174216427-8408e1f7-8055-4be3-a7a3-1846139612ee.png" height="175px"/></a>
 
 <h3 align="center">I'm a passionate Software Developer</h3>
 
