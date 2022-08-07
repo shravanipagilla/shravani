@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center">I'm a passionate Software Developer</h3>
@@ -46,3 +47,17 @@
 <a href="https://github.com/shravanipagilla?tab=followers">
   <img src="https://img.shields.io/github/followers/shravanipagilla?label=Followers&style=social" alt="GitHub Badge">
 </a>
+=======
+I'm a passionate Software Developer
+🔭 I’m currently intern at HackyourFuture,Copenhagen as Fullstack, DevOps & Cloud (AWS) Student
+🌱 I’m currently learning CSS,HTML,JavaScript,ReactJs(Frontend library), nodeJs(Backend),MySql, DevOps(Docker, Github Actions), Cloud Services(AWS)
+👯 I’m looking to collaborate on frontEnd/fullstack project
+👨‍💻 All my projects are available at My Portfolio
+📫 How to reach me: nampally04@gmail.com
+😄 Pronounce: She/Her
+
+🚀 Languages and Tools:
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravanipagilla&theme=radical)
+>>>>>>> bcdf313d22707a749a92deab48572b7119563f21
