@@ -3,12 +3,13 @@
 
 <h3 align="center">I'm a passionate Software Developer</h3>
 
-- 🔭 I’m currently working in Integrify as Fullstack, DevOps & Cloud (AWS) Student
+- 🔭 I’m currently student developer at HackyourFuture,
 - 🌱 I’m currently learning ReactJs(Frontend library), ExpressJs(Backend), DevOps(Docker, Github Actions), Cloud Services(AWS)
 - 👯 I’m looking to collaborate on fullstack project
 - 🤔 I’m looking for help with AWS Certification(Cloud Practioner)
 - 👨‍💻 All my projects are available at **[My Portfolio](https://github.com/shravanipagilla/)**
 - 📫 How to reach me: nampally04@gmail.com
+- 👨‍👩‍👧‍👧 Mother to Two kids
 - 😄 Pronouns: She/Her
 
 ## 🚀 Languages and Tools:
